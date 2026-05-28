@@ -1,7 +1,1 @@
-srb2.srb filter=lfs diff=lfs merge=lfs -text
-player.dta filter=lfs diff=lfs merge=lfs -text
-rings.dta filter=lfs diff=lfs merge=lfs -text
-zones.dta filter=lfs diff=lfs merge=lfs -text
-patch.dta filter=lfs diff=lfs merge=lfs -text
-music.dta filter=lfs diff=lfs merge=lfs -text
 legacy.pk3 filter=lfs diff=lfs merge=lfs -text
