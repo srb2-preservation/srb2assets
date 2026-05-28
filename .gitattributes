@@ -6,4 +6,3 @@ rings.wpn filter=lfs diff=lfs merge=lfs -text
 drill.dta filter=lfs diff=lfs merge=lfs -text
 soar.dta filter=lfs diff=lfs merge=lfs -text
 music.dta filter=lfs diff=lfs merge=lfs -text
-srb2retro.wad filter=lfs diff=lfs merge=lfs -text
